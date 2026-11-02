@@ -45,8 +45,7 @@ source/ → drafts/ → posts/ → 🚀 публикация → published/
 
 ## 🔐 Конфигурация и секреты
 
-Токены и ключи лежат в `config/*.secure.json` и **не попадают в репозиторий**
-(см. `.gitignore`). Чтобы развернуть проект у себя:
+Чтобы развернуть проект у себя:
 
 1. Скопируйте `config/telegram.example.json` → `config/telegram.secure.json`
    и вставьте токен своего бота.
