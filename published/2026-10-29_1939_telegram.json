@@ -1,0 +1,13 @@
+{
+  "platform": "telegram",
+  "channel": "@fintaxa_explains",
+  "channel_title": "Финтакса вносит ясность",
+  "message_id": [8, 9],
+  "published_at": "2026-10-29 19:39",
+  "post_text": "Пост-знакомство «Как такса стала Финтаксой»: фото + полный текст рассказа-легенды о маскоте канала",
+  "image": "images/Такса помогает бухгалтеру с отчётом.png",
+  "source_material": "drafts/2026-10-29-1733_istoriya-fintaksy.md",
+  "deleted_at": "2026-10-30 13:06",
+  "deleted_reason": "Заменён сокращённой версией на 15,2 % короче",
+  "replaced_by": "published/2026-10-30_1306_telegram.json"
+}

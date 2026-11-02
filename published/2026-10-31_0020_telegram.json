@@ -1,0 +1,12 @@
+{
+  "platform": "telegram",
+  "channel": "@fintaxa_explains",
+  "channel_title": "Финтакса вносит ясность",
+  "message_id": [12, 14],
+  "published_at": "2026-10-31 00:20",
+  "post_text": "История №2 «Налоги — это не страшно» (для школьников) двумя сообщениями: message 12 — фото «Налоги с FinTaxa_ всё понятно.png» + заголовок и начало рассказа (подпись 844 символа), message 14 — окончание рассказа с хештегами. Тестовое сообщение 13 удалено через deleteMessage.",
+  "image": "images/Налоги с FinTaxa_ всё понятно.png",
+  "source_material": "source/2026-10-30-2301_chto-takoe-nalog.md",
+  "post_files": ["posts/2026-10-31_nalogi-ne-strashno_tg_part1.txt", "posts/2026-10-31_nalogi-ne-strashno_tg_part2.txt"],
+  "same_as_vk": "published/2026-10-30_2335_vk.json"
+}

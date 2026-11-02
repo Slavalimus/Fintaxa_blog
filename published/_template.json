@@ -1,0 +1,7 @@
+{
+  "platform": "telegram | vk",
+  "published_at": "YYYY-MM-DD HH:MM",
+  "post_text": "Полный текст публикации",
+  "image": "путь к картинке (например images/fintaxa.png) или null, если без картинки",
+  "source_material": "путь к исходному посту (например posts/2026-10-29-novost.md) или null"
+}

@@ -1,0 +1,14 @@
+{
+  "platform": "telegram",
+  "channel": "@fintaxa_explains",
+  "channel_title": "Финтакса вносит ясность",
+  "message_id": [17, 18],
+  "published_at": "2026-11-01 18:15",
+  "post_text": "История №4 «Государство возвращает! История про вычеты» двумя сообщениями: message 17 — фото «Такса объясняет налоговые вычеты.png» + подпись начала рассказа (688 символов), message 18 — окончание рассказа со шпаргалкой и хештегами (2633 символа). Опубликовано агентом tg-publisher, оба сообщения multipart — без ошибок.",
+  "image": "images/Такса объясняет налоговые вычеты.png",
+  "source_material": "drafts/2026-11-01_vychety_lukerya-petrovna.md",
+  "post_files": ["posts/2026-11-01_vychety_tg_part1.txt", "posts/2026-11-01_vychety_tg_part2.txt"],
+  "publish_script": "scripts/tg_publish_story4.ps1",
+  "same_as_vk": "published/2026-11-01_1805_vk.json",
+  "same_as_site": "published/2026-11-01_1810_site.json"
+}

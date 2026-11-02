@@ -1,0 +1,13 @@
+{
+  "platform": "site",
+  "site_url": "local + artifact claude.ai",
+  "slug": "pyat-stavok-ndfl",
+  "page_hash": "index.html#/story/pyat-stavok-ndfl",
+  "published_at": "2026-11-01 17:45",
+  "post_text": "История №3 «Пять ступенек налога» — добавлена на сайт как раздел #/story/pyat-stavok-ndfl; обновлены карточки на главной и в списке историй, пересобран artifact.html. Опубликовано агентом site-publisher.",
+  "image": "site/assets/img/story-3.webp (из images/Прогрессивная шкала НДФЛ с ФинТаксой.png)",
+  "artifact_note": "Артефакт на claude.ai НЕ обновлён: в сессии нет логина claude.ai (ANTHROPIC_AUTH_TOKEN). Обновить при входе по подписке.",
+  "source_material": "drafts/2026-11-01_pyat-stavok-ndfl.md",
+  "same_as_vk": "published/2026-11-01_1736_vk.json",
+  "same_as_tg": "published/2026-11-01_1740_telegram.json"
+}

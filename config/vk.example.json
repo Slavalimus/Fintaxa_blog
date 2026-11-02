@@ -1,0 +1,7 @@
+{
+  "platform": "vk",
+  "group_id": "YOUR_GROUP_ID",
+  "wall_url": "https://vk.com/wall-YOUR_GROUP_ID",
+  "access_token": "PASTE_COMMUNITY_TOKEN_HERE",
+  "user_access_token": ""
+}

@@ -1,0 +1,12 @@
+{
+  "platform": "site",
+  "site_url": "local + artifact claude.ai",
+  "slug": "vychety-lukerya-petrovna",
+  "page_hash": "index.html#/story/vychety-lukerya-petrovna",
+  "published_at": "2026-11-01 18:10",
+  "post_text": "История №4 «Государство возвращает! История про вычеты» — добавлена на сайт разделом #/story/vychety-lukerya-petrovna; обновлены карточки на главной и в списке историй, пересобран artifact.html. Опубликовано агентом site-publisher.",
+  "image": "site/assets/img/story-4.webp (из images/Такса объясняет налоговые вычеты.png)",
+  "artifact_note": "Артефакт на claude.ai НЕ обновлён (в сессии нет логина claude.ai) — обновить при входе по подписке.",
+  "source_material": "drafts/2026-11-01_vychety_lukerya-petrovna.md",
+  "same_as_vk": "published/2026-11-01_1805_vk.json"
+}

@@ -1,0 +1,7 @@
+{
+  "platform": "telegram",
+  "channel": "@your_channel",
+  "channel_url": "https://t.me/your_channel",
+  "bot_username": "@your_bot",
+  "bot_token": "PASTE_BOT_TOKEN_HERE"
+}
