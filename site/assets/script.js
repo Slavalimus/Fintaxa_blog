@@ -11,7 +11,8 @@
     story: "Как такса стала Финтаксой — Финтакса",
     "story/nalogi-ne-strashno": "Налоги — это не страшно — Финтакса",
     "story/pyat-stavok-ndfl": "Пять ступенек налога — Финтакса",
-    "story/vychety-lukerya-petrovna": "Государство возвращает! История про вычеты — Финтакса"
+    "story/vychety-lukerya-petrovna": "Государство возвращает! История про вычеты — Финтакса",
+    "story/porfiriy-ipoteka-vychet": "Финтакса и ипотека Порфирия Сергеевича — Финтакса"
   };
 
   var views = document.querySelectorAll(".view");

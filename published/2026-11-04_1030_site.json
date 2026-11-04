@@ -1,0 +1,13 @@
+{
+  "platform": "site",
+  "site_url": "local + artifact claude.ai",
+  "slug": "porfiriy-ipoteka-vychet",
+  "page_hash": "index.html#/story/porfiriy-ipoteka-vychet",
+  "published_at": "2026-11-04 10:30",
+  "post_text": "История №5 «Финтакса и ипотека Порфирия Сергеевича» — добавлена на сайт разделом #/story/porfiriy-ipoteka-vychet; обновлены карточка в списке историй и «Свежая история» на главной, пересобран artifact.html. Опубликовано агентом site-publisher.",
+  "image": "site/assets/img/story-5.webp (из images/ФинТакса объясняет жилищные вычеты.png; заменено 2026-11-04)",
+  "artifact_note": "Артефакт на claude.ai НЕ обновлён (в сессии нет логина claude.ai — ANTHROPIC_AUTH_TOKEN) — обновить при входе по подписке: site\\artifact.html, сайт уже содержит историю №5.",
+  "source_material": "drafts/2026-11-04_porfiriy-vychety.md",
+  "same_as_tg": "published/2026-11-04_1030_telegram.json",
+  "same_as_vk": "published/2026-11-04_1030_vk.json"
+}

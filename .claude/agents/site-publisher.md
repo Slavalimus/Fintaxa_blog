@@ -21,6 +21,7 @@ tools: Read, Write, Edit, Glob, PowerShell
 3. **Карточки:** добавь `story-row` наверх списка в `#view-stories` и обнови блок «Свежая история» на главной (`#view-home`) — он показывает последнюю историю.
 4. **Навигация:** в `assets\script.js` добавь в `TITLES` запись `"story/<slug>": "<Название> — Финтакса"`. `parseHash` править не нужно — он сам подхватит блок по id.
 5. **Сборка:** запусти `python site\build.py` — он сгенерирует WebP и свежий `artifact.html`.
+6. **Деплой на хостинг:** после сборки запусти `powershell -File scripts\deploy_site.ps1` (или с `-Build`, чтобы сначала пересобрать). Он выгружает на хостинг Reg.ru (fintaxa.ru) только нужное: `index.html` + `assets\` (css/js/img/favicon). Пароль — в `config\hosting.secure.json` (секрет, в `.gitignore`). Деплой — действие наружу: если пользователь явно не сказал «выгружай/публикуй», остановись после сборки и попроси подтверждения. После выгрузки проверь `https://fintaxa.ru` (ожидается HTTP 200).
 
 ## Правила
 

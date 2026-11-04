@@ -108,6 +108,18 @@ def main() -> None:
         (800, 800),
         80,
     )
+    export_webp(
+        IMAGES / "ФинТакса объясняет жилищные вычеты.png",
+        "story-5.webp",
+        (1400, 1400),
+        82,
+    )
+    export_webp(
+        IMAGES / "ФинТакса объясняет жилищные вычеты.png",
+        "story-5-card.webp",
+        (800, 800),
+        80,
+    )
     export_favicon(IMAGES / "Аватар ФинТакса.png")
 
     print("Артефакт:")

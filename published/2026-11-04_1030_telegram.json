@@ -1,0 +1,17 @@
+{
+  "platform": "telegram",
+  "chat": "@fintaxa_explains",
+  "slug": "porfiriy-vychety",
+  "published_at": "2026-11-04 10:30",
+  "message_ids": [19, 20],
+  "post_links": [
+    "https://t.me/fintaxa_explains/19",
+    "https://t.me/fintaxa_explains/20"
+  ],
+  "post_text": "История №5 «Государство возвращает! Часть 2» — имущественные вычеты: покупка жилья (до 260 000 ₽) и проценты по ипотеке (до 390 000 ₽). Двумя сообщениями: фото + подпись (msg 19), текст (msg 20). Фото заменено 2026-11-04 через editMessageMedia на «ФинТакса объясняет жилищные вычеты.png». Текст переразбит 2026-11-04 (editMessageCaption + editMessageText): подпись к фото 1022 симв. (заголовок + завязка + правило про 2 млн ₽), во 2-м сообщении 3397 симв. — диалог и памятка.",
+  "image": "images/ФинТакса объясняет жилищные вычеты.png",
+  "source_material": "posts/2026-11-04_porfiriy-vychety_tg_part1.txt + _tg_part2.txt",
+  "script": "scripts/tg_publish_story5.ps1",
+  "same_as_vk": "published/2026-11-04_1030_vk.json",
+  "same_as_site": "published/2026-11-04_1030_site.json"
+}
